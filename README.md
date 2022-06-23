@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @oliwrongful
+- 👀 I’m interested in Rugby, Gym, Photographer & E-Commerce.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, Vue, Node & PHP
+- 📫 How to reach me www.linktr.ee/oliwrongful
